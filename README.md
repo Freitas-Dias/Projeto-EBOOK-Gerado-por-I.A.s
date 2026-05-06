@@ -1,12 +1,5 @@
 # 📚 Projeto EBOOK Gerado por I.A.s
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Feito%20com-IA-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Curso-DIO-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Autor-Ricardo%20Freitas-blue?style=for-the-badge"/>
-</p>
-
 ---
 
 ## 🚀 Sobre o Projeto
@@ -22,26 +15,20 @@ Aqui você encontrará todos os prompts utilizados, além das instruções neces
 ## 📕 Preview do Ebook
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Preview+do+Ebook" alt="Preview Ebook"/>
-</p>
-
-<p align="center">
-  🔗 <strong><a href="https://www.amazon.com.br/dp/B0GZ5LS2QF" target="_blank">Clique aqui para acessar o ebook completo</a></strong>
+  <a href="https://www.amazon.com.br/dp/B0GZ5LS2QF" target="_blank">
+    📖 <strong>Acessar ebook na Amazon</strong>
+  </a>
 </p>
 
 ---
 
 ## 🧰 Tecnologias Utilizadas
 
-<div align="center">
-
 | Ferramenta    | Descrição                               |
 | ------------- | --------------------------------------- |
 | 🤖 ChatGPT    | Geração de conteúdo e estrutura textual |
 | 🎨 Canva      | Criação da capa do ebook                |
 | 📊 PowerPoint | Diagramação e design final              |
-
-</div>
 
 ---
 
@@ -103,28 +90,19 @@ E --> F[Ebook Final]
 
 ---
 
-## 🎥 Demonstração (Opcional)
+## 👨‍💻 Sobre o Autor
+
+Professor universitário e pesquisador com mais de 20 anos de experiência. Atualmente, sou estudante de Ciência de Dados e Análise do Comportamento, com foco em transformar dados em insights que geram decisões mais inteligentes.
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.gif?text=GIF+Demonstracao+Projeto" alt="Demo GIF"/>
-</p>
-
----
-
-## 👨‍💻 Autor
-
-<p align="center">
-  <strong>Ricardo Freitas</strong><br><br>
-  <a href="#">🔗 GitHub</a> •
-  <a href="#">💼 LinkedIn</a> •
-  <a href="#">📸 Instagram</a>
+  <a href="https://www.linkedin.com/in/ricardo-freitas-4144773b3/">💼 LinkedIn</a>
 </p>
 
 ---
 
 ## ⭐ Contribuição
 
-Se este projeto te ajudou de alguma forma, considere deixar uma ⭐ no repositório!
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
 
 ---
 
