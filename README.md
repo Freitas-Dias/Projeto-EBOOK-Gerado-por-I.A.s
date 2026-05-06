@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre o Projeto
 
-> ℹ️ **NOTE:** Este repositório foi desenvolvido durante o curso em que atuei como instrutor técnico na plataforma DIO.
+> ℹ️ **NOTE:** 
 
 Este projeto tem como objetivo demonstrar como utilizar ferramentas de Inteligência Artificial para criar um ebook digital de forma eficiente, desde a geração de conteúdo até a diagramação final.
 
