@@ -26,7 +26,7 @@ Aqui você encontrará todos os prompts utilizados, além das instruções neces
 </p>
 
 <p align="center">
-  🔗 <strong><a href="#">Clique aqui para acessar o ebook completo</a></strong>
+  🔗 <strong><a href="https://www.amazon.com.br/dp/B0GZ5LS2QF" target="_blank">Clique aqui para acessar o ebook completo</a></strong>
 </p>
 
 ---
